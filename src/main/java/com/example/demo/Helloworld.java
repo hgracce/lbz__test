@@ -1,7 +1,7 @@
 package com.example.demo;
 
 public class Helloworld {
-    public static String say(){
-        return "hahahah";
+    public static int say(){
+        return 1;
     }
 }
